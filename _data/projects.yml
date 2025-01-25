@@ -1,13 +1,15 @@
-# Simply Update
-- title: "Simply Update"
-  img_src: "assets/images/unreleased.svg"
-  img_alt: "Question Mark"
-  img_height: "150"
-  img_width: "150"
-  tags: ["Unreleased"]
-  description: "A Framework to enable python applications update themselves !"
-  unreleased: true
-  date: "2024"
+# VAWL
+- title: "VAWL"
+  subtitle: "(**V**osk **A**s **W**akeword **L**istener)"
+  img_src: "assets/images/VAWL.png"
+  img_alt: "VAWL Logo"
+  img_height: "400"
+  img_width: "400"
+  tags: ["Open Source"]
+  description: "A simple and powerful Wakeword Listener that requires zero training using Vosk"
+  github_link: "https://github.com/Uthayamurthy/VAWL"
+  video_link: "https://drive.google.com/file/d/1gHh2FO-KfbKWZtPlf0vYL6eB71dF67p3/view?usp=sharing"
+  date: "2025"
 
 # SHARP
 - title: "SHARP"
